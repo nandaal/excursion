@@ -1,17 +1,33 @@
-body {
-  background-color: Black;
-  text-align: center;
-}
-
-h1 {
-  font-family: Verdana;
+.big-heading {
   font-weight: Normal;
-  Font-size: 50px;
+  font-size: 50px;
+}
+.heading {
+  font-weight: 300;
+  font-size: 42px;
+}
+h1 {
   color: white;
   text-align: center;
 }
-
-p {
+video {
+  background-color: black;
+  text-align: center;
+}
+body {
+  background-color: black;
+  text-align: center;
+  font-family: Verdana;
+}
+.link {
   color: aquamarine;
-  font-size: 160px;
+  font-size: 16px;
+}
+h2 {
+  font-size: 21px;
+  color: gray;
+}
+h3 {
+  text-align: right;
+  color: gray;
 }
